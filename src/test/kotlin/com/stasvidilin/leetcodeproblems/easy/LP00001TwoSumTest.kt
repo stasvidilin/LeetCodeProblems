@@ -3,6 +3,10 @@ package com.stasvidilin.leetcodeproblems.easy
 import kotlin.test.Test
 import kotlin.test.assertContentEquals
 
+/**
+ * @see com.stasvidilin.leetcodeproblems.easy.twoSum
+ */
+
 class LP00001TwoSumTest {
     @Test
     fun testTwoSum_case1() {
