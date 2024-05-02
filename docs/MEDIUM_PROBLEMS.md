@@ -1,0 +1,3 @@
+# Solved medium problems
+
+- 
