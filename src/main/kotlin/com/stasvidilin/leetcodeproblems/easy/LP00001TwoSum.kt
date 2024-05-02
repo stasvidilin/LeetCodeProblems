@@ -33,6 +33,8 @@ package com.stasvidilin.leetcodeproblems.easy
  * Only one valid answer exists.
  *
  * Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+ *
+ * @see com.stasvidilin.leetcodeproblems.easy.LP00001TwoSumTest
  */
 
 fun twoSum(nums: IntArray, target: Int): IntArray {

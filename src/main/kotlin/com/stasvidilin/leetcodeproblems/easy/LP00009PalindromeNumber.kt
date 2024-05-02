@@ -22,6 +22,8 @@ package com.stasvidilin.leetcodeproblems.easy
  * -231 <= x <= 231 - 1
  *
  * Follow up: Could you solve it without converting the integer to a string?
+ *
+ * @see com.stasvidilin.leetcodeproblems.easy.LP00009PalindromeNumberTest
  */
 
 fun isPalindrome(x: Int): Boolean {

@@ -1,8 +1,12 @@
 # LeetCode Problems
 
+Solve LeetCode problems in Kotlin language
+
+## Current Progress
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/stasvid92)
 
-## Solved problems
+## Solved Problems
 
 - [Easy](/docs/EASY_PROBLEMS.md)
 - [Medium](/docs/MEDIUM_PROBLEMS.md)

@@ -22,6 +22,8 @@ package com.stasvidilin.leetcodeproblems.medium
  * Constraints:
  * - 0 <= s.length <= 5 * 104
  * - s consists of English letters, digits, symbols and spaces.
+ *
+ * @see com.stasvidilin.leetcodeproblems.medium.LP00003LongestSubstringWithoutRepeatingCharactersTest
  */
 
 fun lengthOfLongestSubstring(s: String): Int {
